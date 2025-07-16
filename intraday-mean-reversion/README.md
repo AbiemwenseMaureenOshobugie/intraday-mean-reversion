@@ -3,7 +3,7 @@
 
 This project explores the existence and persistence of **intraday return reversals** following **overnight gaps** using high-frequency data from global indices. By forming decile portfolios based on overnight returns, we investigate whether extreme price moves are followed by mean-reverting intraday behavior.
 
----
+
 
 ## 📘 Overview
 
@@ -13,7 +13,7 @@ This project explores the existence and persistence of **intraday return reversa
 - **Supervisor:** Professor Ritabrata Bhattacharyya  
 - **Submission Date:** July 22, 2025  
 
----
+
 
 ## 🧪 Research Summary
 
@@ -26,30 +26,30 @@ Our empirical study finds that:
 - The signal decays gradually but remains statistically robust over intraday intervals.
 
 **Top-minus-bottom decile spread:**
-- 📉 **–0.28% daily average return** (t = –5.96)
-- 📈 **63.11% win rate across days**
-- 💥 Strongest reversal in first 120 minutes (–0.17%, t = –4.74)
+- **–0.28% daily average return** (t = –5.96)
+- **63.11% win rate across days**
+- Strongest reversal in first 120 minutes (–0.17%, t = –4.74)
 
----
 
-## 📊 Key Visualizations
 
-### 📌 Figure 5.1 – Average Return by Decile
+## Key Visualizations
+
+### Figure 5.1 – Average Return by Decile
 ![Decile Return Bars](figures/fig_5_1_decile_barplot.png)
 
----
 
-### 🕒 Figure 5.2 – Intraday Return Paths for Extreme Deciles
+
+### Figure 5.2 – Intraday Return Paths for Extreme Deciles
 ![Intraday Paths](figures/fig_5_2_intraday_paths.png)
 
----
 
-### 📉 Figure 5.3 – Rolling Betas on Overnight Return
+
+### Figure 5.3 – Rolling Betas on Overnight Return
 ![Beta Decay](figures/fig_5_3_decay_betas.png)
 
----
 
-## 📑 Summary Statistics
+
+## Summary Statistics
 
 | Metric                        | Value                  |
 |------------------------------|------------------------|
@@ -59,20 +59,20 @@ Our empirical study finds that:
 | Signal Persistence (120 min) | –0.17% (t = –4.74)     |
 | Positive Days (%)            | 63.11%                 |
 
----
 
-### 📄 Result Tables
-- 🔢 [Decile-Level Stats](results/decile_stats_overview.csv)
-- 🌍 [Regional Breakdown](results/regional_results.csv)
-- 🌩️ [Volatility Regimes](results/volatility_breakdown.csv)
-- 🕰️ [Time-of-Day Segments](results/time_bucket_performance.csv)
-- ⏱️ [Fixed Intraday Horizons](results/intraday_horizon_stats.csv)
-- 🧮 [Microstructure Check](results/microstructure_comparison.csv)
+
+### Result Tables
+- [Decile-Level Stats](results/decile_stats_overview.csv)
+- [Regional Breakdown](results/regional_results.csv)
+- [Volatility Regimes](results/volatility_breakdown.csv)
+- [Time-of-Day Segments](results/time_bucket_performance.csv)
+- [Fixed Intraday Horizons](results/intraday_horizon_stats.csv)
+- [Microstructure Check](results/microstructure_comparison.csv)
 - ✔️ [Positive Day Fraction](results/positive_day_fraction.txt)
 
----
 
-## 📂 Repository Structure
+
+## Repository Structure
 
 ```bash
 intraday-mean-reversion/
