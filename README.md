@@ -104,13 +104,9 @@ intraday-mean-reversion/
 └── LICENSE
 
 
+[Full Capstone Report](https://drive.google.com/file/d/1L_3R4leUZz4EjTUVBFbfXpxavaPD_EIu/view?usp=drive_link)
+
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-
-> `.gitignore` is configured to exclude temporary files, checkpoints, and environment folders.
-
-
-[Full Capstone Report](https://drive.google.com/file/d/1L_3R4leUZz4EjTUVBFbfXpxavaPD_EIu/view?usp=drive_link)
-
