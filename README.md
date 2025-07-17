@@ -103,6 +103,7 @@ intraday-mean-reversion/
 ├── README.md
 └── LICENSE
 
+```
 
 [Full Capstone Report](https://drive.google.com/file/d/1L_3R4leUZz4EjTUVBFbfXpxavaPD_EIu/view?usp=drive_link)
 
