@@ -74,6 +74,13 @@ Our empirical study finds that:
 - [Microstructure Check](results/microstructure_comparison.csv)
 - ✔️ [Positive Day Fraction](results/positive_day_fraction.txt)
 
+#### Preview – Decile-Level Intraday Returns
+
+| Decile | Mean | Std Dev | Median | Min     | Max     |
+|--------|------|---------|--------|---------|---------|
+| 0      | 0.0018 | 0.0076 | 0.0020 | -0.0501 | 0.0381 |
+| 1      | 0.0014 | 0.0062 | 0.0014 | -0.0225 | 0.0214 |
+| 2      | 0.0002 | 0.0066 | 0.0009 | -0.0551 | 0.0195 |
 
 
 ## Repository Structure
