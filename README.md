@@ -66,7 +66,8 @@ Our empirical study finds that:
 
 
 ### Result Tables
-- [Decile-Level Stats](results/decile_stats_overview.csv)
+- [Decile-Level Stats (intraday)](results/decile_stats_overview.csv)
+- [Decile-Level Stats (overnight)](results/overnight_return_stats.csv)
 - [Regional Breakdown](results/regional_results.csv)
 - [Volatility Regimes](results/volatility_breakdown.csv)
 - [Time-of-Day Segments](results/time_bucket_performance.csv)
