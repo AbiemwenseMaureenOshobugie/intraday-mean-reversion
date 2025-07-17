@@ -48,6 +48,10 @@ Our empirical study finds that:
 ![Beta Decay](figures/fig_5_3_decay_betas.png)
 
 
+### Figure 5.4 – Long-short Strategy Evaluation
+![Strategy Performane](figures/fig_5_4_strategy.png)
+
+
 
 ## Summary Statistics
 
